@@ -75,16 +75,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedelhoudaigui&show_icons=true&locale=en&theme=tokyonight" alt="mohamedelhoudaigui" />
-      </td>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedelhoudaigui&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mohamedelhoudaigui" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://streak-stats.demolab.com?user=mohamedelhoudaigui&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedelhoudaigui&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
