@@ -20,10 +20,9 @@
 
 ### 🧐 About Me
 
-- 🔭 I’m currently working on **scalable web applications and AI integration.**
-- 🌱 I’m currently learning **advanced distributed systems.**
-- 👯 I’m looking to collaborate on **open source projects involving Go or Python.**
-- 💬 Ask me about **Full Stack Development, Machine Learning, and Docker.**
+- 🔭 I’m currently working on **scalable web applications and gen AI apps.**
+- 🌱 I’m currently learning **system design, backend and AI.**
+- 💬 Ask me about **Backend Development, Low level, and AI.**
 
 ---
 
