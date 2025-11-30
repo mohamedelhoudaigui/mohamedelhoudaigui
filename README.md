@@ -92,10 +92,10 @@
 ### 🤝 Connect with me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/[YourLinkedInUsername]" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-el-houdaigui-4389a6385/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:[your.email@example.com]">
+  <a href="mailto:[elhoudaguimohamed900@gmail.com]">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.hackerrank.com/@mohamedelhoudai1" target="_blank">
