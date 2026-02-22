@@ -48,7 +48,7 @@
       <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="nodejs"/></a><br/>
       <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="express"/></a><br/>
       <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://vectorseek.com/wp-content/uploads/2023/09/FastAPI-Logo-Vector.svg-.png" width="40" height="40" alt="fastapi"/></a><br/>
-      <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40" alt="flask"/></a>
+      <a href="https://fastify.dev/" target="_blank"><img src="https://fastify.dev/img/logos/fastify-white.svg" width="40" height="40" alt="fastify"/></a>
     </td>
     <td align="center">
       <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="pytorch"/></a><br/>
@@ -56,7 +56,6 @@
     </td>
     <td align="center">
       <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="docker"/></a><br/>
-      <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="k8s"/></a><br/>
       <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/></a><br/>
       <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="nginx"/></a><br/>
       <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"/></a>
@@ -91,11 +90,5 @@
   </a>
   <a href="mailto:[elhoudaguimohamed900@gmail.com]">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.hackerrank.com/@mohamedelhoudai1" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="https://www.leetcode.com/mohamedelhoudaigui" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
   </a>
 </div>
