@@ -21,7 +21,7 @@
 ### 🧐 About Me
 
 - 🔭 I’m currently working on **scalable web applications and gen AI apps.**
-- 🌱 I’m currently learning **system design, backend and AI.**
+- 🌱 I’m currently learning **system design, backend and Machine learning.**
 - 💬 Ask me about **Backend Development, Low level, and AI.**
 
 ---
@@ -47,7 +47,7 @@
     <td align="center">
       <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="nodejs"/></a><br/>
       <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="express"/></a><br/>
-      <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="django"/></a><br/>
+      <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://vectorseek.com/wp-content/uploads/2023/09/FastAPI-Logo-Vector.svg-.png" width="40" height="40" alt="fastapi"/></a><br/>
       <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40" alt="flask"/></a>
     </td>
     <td align="center">
