@@ -2,7 +2,7 @@
   <h1 align="center">Hi there, I'm Mohamed El Houdaigui 👋</h1>
   <h3 align="center">Software Engineer from Morocco 🇲🇦</h3>
   <p align="center">
-     Full Stack Developer | AI Enthusiast | DevOps Practitioner
+     Backend Developer | AI Enthusiast | Machine learning Practitioner
   </p>
 
   <p align="center">
